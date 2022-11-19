@@ -1,0 +1,9 @@
+.figure__image {
+    max-width: 75vw;
+    max-height: 75vh;
+  }
+  
+  figure {
+	  position: relative;
+    margin: 0;
+  }
